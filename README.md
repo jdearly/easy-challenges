@@ -1,1 +1,1 @@
-# easy-challenges
+Collection of some easy coding problem solutions.
