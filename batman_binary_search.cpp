@@ -38,7 +38,7 @@ int main()
         if (bombDir == "R") {
             LX = X0 + 1;
         }
-       if (bombDir == "L") {
+        if (bombDir == "L") {
             HX = X0 - 1;
         }
         if (bombDir == "UR") {
